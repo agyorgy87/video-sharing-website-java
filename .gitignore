@@ -28,7 +28,7 @@ out/
 
 ### Exceptions ###
 .gradle/
-.gradle/wrapper
+.gradle/wrapper/
 .idea/
 build/
 gradle/
