@@ -27,8 +27,15 @@ out/
 !**/src/test/**/out/
 
 ### Exceptions ###
+.gradle/
 .idea/
-
+build/
+gradle/
+build.gradle
+gradlew
+gradlew.bat
+HELP.md
+settings.gradle
 
 ### NetBeans ###
 /nbproject/private/
