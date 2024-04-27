@@ -32,11 +32,8 @@ out/
 .idea/
 build/
 gradle/
-build.gradle
-gradlew
-gradlew.bat
 HELP.md
-settings.gradle
+
 
 ### NetBeans ###
 /nbproject/private/
